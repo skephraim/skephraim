@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @skephraim ... Truuuu
 - 👀 I’m interested in ... Learning as much as I can!
-- 🌱 I’m currently learning ... Linux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning ... Linux and A Agents
+- 💞️ I’m looking to collaborate on ... On anything that will make me better as well as whomever I collab with.
+- 📫 How to reach me ... Shhot me a message
+- 😄 Pronouns: ... Rich, Wealthy, and Affluent
+- ⚡ Fun fact: ... I am a Fun Fact! 
 
 <!---
 skephraim/skephraim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
