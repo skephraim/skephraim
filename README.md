@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skephraim ... Truuuu
+- 👋 Hi, I’m @skephraim ... Sun Gawd is the name, Tech is my DOMAIN!
 - 👀 I’m interested in ... Learning as much as I can!
 - 🌱 I’m currently learning ... Linux and A Agents
 - 💞️ I’m looking to collaborate on ... On anything that will make me better as well as whomever I collab with.
